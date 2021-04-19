@@ -71,3 +71,5 @@ Making flexbox and alignment work properly
 - Frontend Mentor - [@MrRobot](https://www.frontendmentor.io/profile/MrRo-bot)
 
 ## Acknowledgments
+
+This project is made entirely by me and myself only.
