@@ -47,7 +47,7 @@ Making flexbox and alignment work properly
 - Flexbox,
 - CSS Grid,
 - Mobile-first workflow,
-- ::before ::after pseudo-classes.
+- ::before ::after.
 
 ### What I learned
 
