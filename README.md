@@ -26,8 +26,8 @@ Making flexbox and alignment work properly
 
 ### Links
 
-- GITHUB REPO: [https://github.com/MrRo-bot/FEM3]
-- Solution URL: [https://codepen.io/Mr-RO13OT/pen/ZELjxQP]
+- GITHUB REPO: [https://github.com/MrRo-bot/stats-preview-card]
+- Solution URL: [https://codepen.io/Mr-RO13OT/full/ZELjxQP]
 
 ## My process
 
