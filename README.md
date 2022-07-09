@@ -14,7 +14,7 @@
 
 ## Overview
 
-Creating a social stats page
+Creating NEWBIE social stats page
 
 ### The challenge
 
